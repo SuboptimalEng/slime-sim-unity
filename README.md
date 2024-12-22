@@ -1,4 +1,4 @@
-# 🐌 Slime Mold Unity
+# 🐌 Slime Mold Simulation in Unity
 
 Simulating slime.
 
